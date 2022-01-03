@@ -1,0 +1,2 @@
+\beamer@sectionintoc {1}{Example}{3}{0}{1}
+\beamer@sectionintoc {2}{Independent Mechanisms}{6}{0}{2}
