@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{Structural Causal Models}{3}{0}{1}
+\beamer@sectionintoc {2}{Interventions}{7}{0}{2}
+\beamer@sectionintoc {3}{Counterfactuals}{15}{0}{3}
+\beamer@sectionintoc {4}{Canonical Representation of Structural Causal Models}{21}{0}{4}
