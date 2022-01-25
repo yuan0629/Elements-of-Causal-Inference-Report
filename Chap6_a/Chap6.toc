@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Graph Terminology}{3}{0}{1}
+\beamer@sectionintoc {2}{Structural Causal Models}{8}{0}{2}
+\beamer@sectionintoc {3}{Interventions}{13}{0}{3}
+\beamer@sectionintoc {4}{Counterfactuals}{21}{0}{4}
+\beamer@sectionintoc {5}{Markov Property, Faithfulness, and Causal Minimality}{25}{0}{5}
