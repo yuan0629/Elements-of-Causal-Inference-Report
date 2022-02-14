@@ -1,0 +1,2 @@
+\beamer@sectionintoc {1}{Structure Identifiability}{3}{0}{1}
+\beamer@sectionintoc {2}{Methods for Structure Identification}{10}{0}{2}
